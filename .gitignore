@@ -22,3 +22,4 @@ chromedriver_test_screenshot.png
 !.gitignore
 !.env.example
 !README.md
+.env.*
