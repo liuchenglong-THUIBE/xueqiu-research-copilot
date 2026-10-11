@@ -23,3 +23,4 @@ chromedriver_test_screenshot.png
 !.env.example
 !README.md
 .env.*
+cookie_home.txt
